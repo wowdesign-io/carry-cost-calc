@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  var WEBHOOK_URL = 'MAKE_WEBHOOK_URL';
+  var WEBHOOK_URL = 'https://hook.us2.make.com/aamk11siz299581bp71ezhif746dh8i1';
   var _d = {};
 
   // ── CSS ──────────────────────────────────────────────────────────────────────
@@ -351,7 +351,7 @@
       'By accelerating your absorption timeline by ' + _d.months +
       ' month' + (_d.months > 1 ? 's' : '') + ', you prevent ' +
       fmt(total_saved) + ' in capital erosion — approximately ' +
-      fmt(monthly_erosion) + ' per month. This level of efficiency offsets the cost of a wowdesign Digital Sales Center ' +
+      fmt(monthly_erosion) + ' per month. This level of efficiency offsets the cost of the wowdesign system ' +
       roi_multiplier + ' within a single project cycle.';
 
     document.getElementById('wwd-gate').style.display    = 'none';
