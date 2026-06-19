@@ -248,7 +248,7 @@
   <div id="wwd-gate" style="display:none;">
     <div class="wwd-gate-header">
       <h3>Receive Your Capital Preservation Report</h3>
-      <p style="margin-top:6px;">Enter your details to unlock the full financial breakdown.</p>
+      <p style="margin-top:6px;">Enter your details to unlock the full breakdown — we'll also send a copy to your email.</p>
     </div>
 
     <div class="wwd-field">
