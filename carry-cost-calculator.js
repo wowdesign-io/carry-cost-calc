@@ -72,7 +72,7 @@
 
 .wwd-input::placeholder { color: #475569; }
 .wwd-input:focus, .wwd-select:focus { border-color: #2E77FA; }
-.wwd-select option { background: #1a2235; color: #ffffff; }
+.wwd-select option { background: #1a2235 !important; background-color: #1a2235 !important; color: #ffffff !important; }
 
 .wwd-select-wrap { position: relative; }
 .wwd-select-wrap::after {
