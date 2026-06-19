@@ -291,6 +291,8 @@
 
     <p class="wwd-summary" id="wwd-summary"></p>
 
+    <p style="margin-top:14px; font-size:12px; color:#64748b;">We've sent a copy of these results to your email.</p>
+
     <div class="wwd-cta">
       <p>Ready to close 31% faster?</p>
       <a class="wwd-cta-btn" id="wwd-cta-link" href="https://cal.com/wowdesign/book-a-demo" target="_blank" rel="noopener">Book a 30-min demo &#8594;</a>
