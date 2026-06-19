@@ -293,7 +293,7 @@
 
     <div class="wwd-cta">
       <p>Ready to close 31% faster?</p>
-      <a class="wwd-cta-btn" id="wwd-cta-link" href="CAL_LINK" target="_blank" rel="noopener">Book a 30-min demo &#8594;</a>
+      <a class="wwd-cta-btn" id="wwd-cta-link" href="https://cal.com/wowdesign/book-a-demo" target="_blank" rel="noopener">Book a 30-min demo &#8594;</a>
     </div>
   </div>
 
