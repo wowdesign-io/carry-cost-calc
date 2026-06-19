@@ -15,7 +15,6 @@
   font-family: 'Inter', Arial, sans-serif;
   color: #ffffff;
   width: 100%;
-  max-width: 640px;
 }
 
 .wwd-calc h2 {
